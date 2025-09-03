@@ -1,0 +1,7 @@
+dotenv
+groq
+openai
+google-genai
+google-generativeai
+gradio
+notion-client
